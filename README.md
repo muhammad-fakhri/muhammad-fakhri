@@ -83,20 +83,9 @@ I am a software engineer with a significant interest in Web and Mobile Applicati
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
 [![Muhammad Fakhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-fakhri)](https://github.com/muhammad-fakhri)
-
-</details>
 
 [website]: https://muhammadfakhri.my.id
 [twitter]: https://twitter.com/muhammd_fakhri
