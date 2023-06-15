@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer
 
-I am a software engineer with a significant interest in Web and Mobile Application Development. I enjoy being involved in many projects to improve my technical proficiency and gaining relevant experience in the information technology industry. I love to learn new things and share them with other people, especially on software development topics.
+I am a software engineer with a keen interest in Web and Mobile Application Development. I actively engage in various projects to enhance my technical proficiency and gain valuable experience in the information technology industry. I have a passion for continuous learning and enjoy sharing my knowledge, particularly in software development topics.
 
 ### Connect with me:
 
